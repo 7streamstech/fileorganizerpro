@@ -1,0 +1,27 @@
+File Organizer Pro License Agreement
+====================================
+
+IMPORTANT: PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THIS SOFTWARE.
+
+By installing, copying, or otherwise using File Organizer Pro, you agree to be bound by the terms of this license agreement.
+
+1. GRANT OF LICENSE
+7 Streams Tech grants you a non-exclusive, non-transferable license to use File Organizer Pro for personal or business purposes, subject to the terms outlined in this agreement.
+
+2. RESTRICTIONS
+- You may not redistribute, sell, or sublicense this software without prior written consent from 7 Streams Tech.
+- You may not reverse engineer, decompile, or disassemble this software.
+- Unauthorized use of this software may result in termination of this license agreement.
+
+3. DISCLAIMER
+THIS SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL 7 STREAMS TECH BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. SUPPORT
+For support or questions about this software, please contact us at:
+Email: support@7streamstech.com
+Website: https://7streamstech.com
+
+5. TERMINATION
+This license is effective until terminated. Failure to comply with the terms of this agreement will result in automatic termination of the license. Upon termination, you must destroy all copies of the software.
+
+Thank you for using File Organizer Pro.

@@ -1,0 +1,5 @@
+signtool sign /f 7Streams_file_organizer_gui_Cert.pfx /p F0lderW1zard#Prose /tr http://timestamp.digicert.com /td sha256 /fd sha256 file_organizer_gui.exe
+
+
+
+
